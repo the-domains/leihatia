@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Leihatia]]></title>
         <description><![CDATA[Leihatia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://leihatia.blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 03:59:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 04:06:14 GMT</lastBuildDate>
+        <atom:link href="http://leihatia.blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LeiHatia's Blog]]></title>
             <description><![CDATA[<article><h1>LeiHatia's Blog</h1><p>예전 제 블로그에 있던 내용을 가져옵니다.</p></article>]]></description>
-            <link>undefinedleihatias-blog/index.html</link>
+            <link>http://leihatia.blog/leihatias-blog/index.html</link>
             <guid isPermaLink="false">39157fb4-c65d-4530-8b65-e6799aeaa572</guid>
-            <pubDate>Fri, 01 Jan 2016 03:59:12 GMT</pubDate>
+            <pubDate>Fri, 01 Jan 2016 04:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
