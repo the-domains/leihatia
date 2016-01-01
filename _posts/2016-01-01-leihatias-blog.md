@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T04:06:06.621Z'
-dateModified: '2016-01-01T04:05:50.519Z'
-title: "LeiHatia's Blog"
+datePublished: '2016-01-01T04:12:59.752Z'
+dateModified: '2016-01-01T04:12:52.398Z'
+title: 예전 제 블로그에 있던 내용을 가져옵니다.
 author: []
 sourcePath: _posts/2016-01-01-leihatias-blog.md
 published: true
@@ -22,7 +22,7 @@ url: leihatias-blog/index.html
 _type: Article
 
 ---
-예전 제 블로그에 있던 내용을 가져옵니다.
+# 예전 제 블로그에 있던 내용을 가져옵니다.
 
 2010-03-31 09:38:03
 
