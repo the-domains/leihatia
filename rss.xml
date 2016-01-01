@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LeiHatia Blog]]></title>
         <description><![CDATA[LeiHatia Blog]]></description>
-        <link>http://leihatia.blog/</link>
+        <link>https://thegrid.ai/leihatia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 04:30:41 GMT</lastBuildDate>
-        <atom:link href="http://leihatia.blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 04:38:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leihatia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[몬스터헌터 팬북 커버]]></title>
+            <description><![CDATA[<article><h1>몬스터헌터 팬북 커버</h1><p>그림은 코타님의 그림이 선정이 되었는데 그분이 특별히 이번 프로젝트로 새롭게 그려주셨고, 몬스터헌터의 거친 사냥의 느낌을 가장잘 살려서 이걸로 선택했습니다.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4a95a482fe1fdb144608807269ed501ff3b1639.jpg"></article>]]></description>
+            <link>https://thegrid.ai/leihatia/a822342f-f773-4952-8d89-44b7f42aca28/index.html</link>
+            <guid isPermaLink="false">a822342f-f773-4952-8d89-44b7f42aca28</guid>
+            <pubDate>Fri, 01 Jan 2016 04:38:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[예전 제 블로그에 있던 내용을 가져옵니다.]]></title>
             <description><![CDATA[<article><h1>예전 제 블로그에 있던 내용을 가져옵니다.</h1><p>2010-03-31 09:38:03</p></article>]]></description>
-            <link>http://leihatia.blog/leihatias-blog/index.html</link>
+            <link>https://thegrid.ai/leihatia/leihatias-blog/index.html</link>
             <guid isPermaLink="false">39157fb4-c65d-4530-8b65-e6799aeaa572</guid>
             <pubDate>Fri, 01 Jan 2016 04:30:31 GMT</pubDate>
         </item>
