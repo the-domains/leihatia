@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Leihatia]]></title>
+        <description><![CDATA[Leihatia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 03:59:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LeiHatia's Blog]]></title>
+            <description><![CDATA[<article><h1>LeiHatia's Blog</h1><p>예전 제 블로그에 있던 내용을 가져옵니다.</p></article>]]></description>
+            <link>undefinedleihatias-blog/index.html</link>
+            <guid isPermaLink="false">39157fb4-c65d-4530-8b65-e6799aeaa572</guid>
+            <pubDate>Fri, 01 Jan 2016 03:59:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
