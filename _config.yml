@@ -1,7 +1,7 @@
 name: Leihatia
 favicon: null
-layout_spectrum: 0.606705158483237
-typography_spectrum: 0.5873006673064083
+layout_spectrum: 0.56818
+typography_spectrum: 0.24895
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8204237355384976
-  lightness: 0.6858321414329112
-  saturation: 0.2456327322870493
-  rhythmicContrast: 0.4187850982416421
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
