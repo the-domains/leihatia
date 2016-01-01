@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Leihatia]]></title>
-        <description><![CDATA[Leihatia]]></description>
+        <title><![CDATA[LeiHatia Blog]]></title>
+        <description><![CDATA[LeiHatia Blog]]></description>
         <link>http://leihatia.blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 04:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jan 2016 04:13:12 GMT</lastBuildDate>
         <atom:link href="http://leihatia.blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[LeiHatia's Blog]]></title>
-            <description><![CDATA[<article><h1>LeiHatia's Blog</h1><p>예전 제 블로그에 있던 내용을 가져옵니다.</p></article>]]></description>
+            <title><![CDATA[예전 제 블로그에 있던 내용을 가져옵니다.]]></title>
+            <description><![CDATA[<article><h1>예전 제 블로그에 있던 내용을 가져옵니다.</h1><p>2010-03-31 09:38:03</p></article>]]></description>
             <link>http://leihatia.blog/leihatias-blog/index.html</link>
             <guid isPermaLink="false">39157fb4-c65d-4530-8b65-e6799aeaa572</guid>
-            <pubDate>Fri, 01 Jan 2016 04:06:06 GMT</pubDate>
+            <pubDate>Fri, 01 Jan 2016 04:12:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
